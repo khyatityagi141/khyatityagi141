@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Khyati Tyagi! 👋
 
-<!--
-**khyatityagi141/khyatityagi141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-Year B.Tech Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- Interested in Software Development, Artificial Intelligence and Machine Learning.
+- Exploring Python, Web Development and Data Analytics.
+- Working on academic and practical technology projects.
+- Always eager to learn new technologies and improve my skills.
+
+### Technical Interests
+- Python
+- Machine Learning
+- Artificial Intelligence
+- HTML & CSS
+- JavaScript
+- Data Analytics
+- C Programming
+
+### Projects
+Coming Soon! 🚀
+
+### Connect With Me
+- GitHub: https://github.com/khyatityagi141
